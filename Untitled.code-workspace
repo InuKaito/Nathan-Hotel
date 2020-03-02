@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/Users/r2h/Desktop/VSCode Projects"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Hotel Nathan"
+	}
+}
